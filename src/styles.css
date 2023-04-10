@@ -23,13 +23,11 @@ body {
 
 .home-page h1{
     font-size: 60px;
-    display: flex;
 }
 
 .home-page p{
     font-size: 40px;
     padding-bottom: 7%;
-    display: flex;
 }
 
 .home-page img {
@@ -48,4 +46,27 @@ body {
 
 .brand-name{
     font-family: 'Roboto Slab', serif;
+}
+
+
+.contact{
+    font-family: 'Inconsolata', monospace;
+    background-color: #BFBFBF;
+    text-align: left;
+    margin-top: 0;
+    padding-top: 100px;
+    padding-left: 100px;
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.contact h1{
+    font-size: 60px;
+}
+
+.contact p{
+    font-size: 30px;
 }
