@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+
+}
+
+.home-page{
+    font-family: 'Inconsolata', monospace;
+    background-color: #BFBFBF;
+    text-align: left;
+    margin-top: 0;
+    padding-top: 100px;
+    padding-left: 100px;
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.home-page h1{
+    font-size: 60px;
+    display: flex;
+}
+
+.home-page p{
+    font-size: 40px;
+    padding-bottom: 7%;
+    display: flex;
+}
+
+.home-page img {
+    justify-content: end;
+    width: 450px;
+}
+
+.home-page a{
+    padding: 10%;
+}
+
+.navbar-item{
+    margin-left: 3%;
+    font-family: 'Roboto Slab', serif;
+}
+
+.brand-name{
+    font-family: 'Roboto Slab', serif;
+}
