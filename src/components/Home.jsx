@@ -15,7 +15,6 @@ return <div  className="home-page">
     <a href="https://www.instagram.com/cinderbayo/?hl=en"><InstagramIcon/></a>
     
 </div>
-    
     <img src={Mainpic} alt="me"></img>
 </div>
 
